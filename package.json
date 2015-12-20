@@ -12,7 +12,7 @@
   "dependencies": {
     "async.util.ensureasync": "0.4.2",
     "async.util.noop": "0.4.2",
-    "async.util.onlyonce": "0.4.2"
+    "async.util.onlyonce": "0.4.3"
   },
   "keywords": [
     "async",
